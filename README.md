@@ -8,11 +8,16 @@
 
 <br>
 
-</div>
-
 ```text
  ┌─────────────────────────────────────────────────────────────┐
  │  name    ░  Rafael - Palitoo                                │
  │  locate  ░  Natal / RN (084)                                │
  │  stack   ░  node | py | tsx | ts | sql | mongo | pg | mysql │
  └─────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+[![Discord](https://img.shields.io/badge/4b5r-%235865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/613402166975266828)
+
+</div>
