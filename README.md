@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp5Znd0Z3R4ZXBwN3g0bHlyN3d3Y2R4cXZ4M296bWZ6Z3BvN3ZreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif" width="500px" alt="Anime Coding Aesthetic">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVtbDVzOHJvazY1amo0OTNrcDF2cGdrM3lmMm4wajg4aGJqcHp3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="500px" alt="Anime Coding Aesthetic">
 
 <br><br>
 
