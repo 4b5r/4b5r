@@ -1,23 +1,51 @@
-<div align="center">
+<br clear="both">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVtbDVzOHJvazY1amo0OTNrcDF2cGdrM3lmMm4wajg4aGJqcHp3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="500px" alt="Anime Coding Aesthetic">
+<h1 data-importer="text" align="center">Hello Everyone! 🤓</h1>
 
-<br><br>
+###
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+close+this+world.+open+the+next." alt="Typing SVG" />
+<br clear="both">
 
-<br>
-
-```text
- ┌─────────────────────────────────────────────────────────────┐
- │  name    ░  Rafael - Palitoo                                │
- │  locate  ░  Natal / RN (084)                                │
- │  stack   ░  node | py | tsx | ts | sql | mongo | pg | mysql │
- └─────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-[![Discord](https://img.shields.io/badge/4b5r-%235865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/613402166975266828)
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/🔍">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%F0%9F%94%8D&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
