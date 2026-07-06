@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -86,12 +84,6 @@
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:4b5r?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
