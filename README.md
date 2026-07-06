@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 data-importer="text" align="center">👋 Hey, I'm Rafael.</h1>
+<h1 data-importer="text" align="center">🤓 Hello, I am Rafael.</h1>
 
 ###
 
@@ -84,26 +84,14 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/4b5r/4b5r/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=4b5r&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/4b5r/4b5r/trophy-output/trophy.svg?theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:4b5r?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4b5r/4b5r/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4b5r/4b5r/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4b5r/4b5r/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<br clear="both">
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:4b5r?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
