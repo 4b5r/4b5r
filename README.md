@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Rafael 👋</h1>
+<h1 align="center">Hey, I'm Rafael 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Backend+Developer;Discord.js+Developer;TypeScript+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Construo aplicações Discord escaláveis, APIs e sistemas de backend.
+  Building scalable Discord applications, APIs and backend systems.
 </p>
 
 <p align="center">
@@ -22,17 +22,17 @@
 
 <br/>
 
-## 🚀 Projeto em destaque
+## 🚀 Featured Project
 
 <div align="center">
 
 ### 💜 PUREZA
 
-**O bot oficial de uma das maiores comunidades Discord da América Latina.**
+**The official bot powering one of the largest Discord communities in Latin America.**
 
-[![Discord](https://img.shields.io/discord/000000000000000000?label=Entrar%20no%20servidor&logo=discord&style=for-the-badge&color=7289DA)](https://discord.gg/pureza)
+[![Discord](https://img.shields.io/discord/000000000000000000?label=Join%20the%20server&logo=discord&style=for-the-badge&color=7289DA)](https://discord.gg/pureza)
 
-`TypeScript` · `Discord.js` · `PostgreSQL` · `Redis` · Arquitetura de backend escalável
+`TypeScript` · `Discord.js` · `PostgreSQL` · `Redis` · Scalable backend architecture
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=4b5r&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
