@@ -1,30 +1,46 @@
-<h1 align="center">👋 Hello, I'm Rafael.</h1>
+<h1 align="center">Hey 👋, I'm Rafael</h1>
 
 <p align="center">
-Backend Developer • Discord.js Developer • TypeScript
+  <b>Backend Developer</b> • <b>Discord.js Developer</b> • <b>TypeScript</b>
 </p>
 
 <p align="center">
-Building scalable Discord bots, APIs and backend systems.
+Building scalable Discord applications, APIs and backend systems.
 </p>
 
 <p align="center">
-<a href="https://discord.com/users/SEU_ID">Discord</a> •
-<a href="https://instagram.com/SEUUSER">Instagram</a> •
-<a href="https://x.com/SEUUSER">X</a>
-</p>
-
----
-
-## Languages & Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,tailwind,discordjs" />
+  <a href="https://discord.com/users/SEU_DISCORD">Discord</a> •
+  <a href="https://instagram.com/SEU_INSTAGRAM">Instagram</a> •
+  <a href="https://x.com/SEU_TWITTER">X (Twitter)</a>
 </p>
 
 ---
 
-## Databases
+## 🚀 Featured Project
+
+<div align="center">
+
+# 💜 PUREZA
+
+The official bot powering one of the largest Discord communities in Latin America.
+
+### https://discord.gg/pureza
+
+Built with **TypeScript**, **Discord.js**, **PostgreSQL**, **Redis** and a scalable backend architecture.
+
+</div>
+
+---
+
+## 💻 Languages & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,python,react,nextjs,tailwind" />
+</p>
+
+---
+
+## 🗄️ Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
@@ -32,60 +48,52 @@ Building scalable Discord bots, APIs and backend systems.
 
 ---
 
-## Tools & Operating Systems
+## 🛠️ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,npm" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUGITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUGITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## Contribution Graph
+## 🔥 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUGITHUB&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_GITHUB&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
-## GitHub Streak
+## ⚡ GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUGITHUB&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=SEU_GITHUB&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### 💜 PUREZA
+*"Code is temporary. Quality is permanent."*
 
-Modern Discord Community System.
-
----
-
-### 🌾 Fazendinha
-
-Economy & Community Discord Bot.
-
----
-
-### ⚡ Backend APIs
-
-REST APIs using TypeScript, PostgreSQL, MongoDB and Redis.
+</div>
