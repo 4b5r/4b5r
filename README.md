@@ -1,89 +1,91 @@
-<br clear="both">
+<h1 align="center">👋 Hello, I'm Rafael.</h1>
 
-<h1 data-importer="text" align="center">🤓 Hello, I am Rafael.</h1>
+<p align="center">
+Backend Developer • Discord.js Developer • TypeScript
+</p>
 
-###
+<p align="center">
+Building scalable Discord bots, APIs and backend systems.
+</p>
 
-<h2 data-importer="text" align="center">Languages</h2>
+<p align="center">
+<a href="https://discord.com/users/SEU_ID">Discord</a> •
+<a href="https://instagram.com/SEUUSER">Instagram</a> •
+<a href="https://x.com/SEUUSER">X</a>
+</p>
 
-###
+---
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-</div>
+## Languages & Frameworks
 
-###
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,tailwind,discordjs" />
+</p>
 
-<h2 data-importer="text" align="center">Databases</h2>
+---
 
-###
+## Databases
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
 
-###
+---
 
-<h2 data-importer="text" align="center">Tools & Operating Systems</h2>
+## Tools & Operating Systems
 
-###
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,npm" />
+</p>
 
-<br clear="both">
+---
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
+## GitHub Stats
 
-###
+<p align="center">
 
-<h2 data-importer="text" align="center">Socials</h2>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUGITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-###
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUGITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <a href="https://www.instagram.com/k1ng.py/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/1ilvkz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## Contribution Graph
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:4b5r?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<p align="center">
 
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUGITHUB&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEUGITHUB&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Featured Projects
+
+### 💜 PUREZA
+
+Modern Discord Community System.
+
+---
+
+### 🌾 Fazendinha
+
+Economy & Community Discord Bot.
+
+---
+
+### ⚡ Backend APIs
+
+REST APIs using TypeScript, PostgreSQL, MongoDB and Redis.
