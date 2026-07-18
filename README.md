@@ -9,9 +9,9 @@ Building scalable Discord applications, APIs and backend systems.
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/SEU_DISCORD">Discord</a> •
-  <a href="https://instagram.com/SEU_INSTAGRAM">Instagram</a> •
-  <a href="https://x.com/SEU_TWITTER">X (Twitter)</a>
+  <a href="https://discord.com/users/613402166975266828">Discord</a> •
+  <a href="https://instagram.com/k1ng.py">Instagram</a> •
+  <a href="https://x.com/1ilvkz">X (Twitter)</a>
 </p>
 
 ---
